@@ -101,14 +101,7 @@ Modifiying  as   public | Base, Modules | Bug Fixes, Modules
       More About WhatsAsena
   </summary>
   <p align="center">
- 
-  </p>
-</details>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Viz-Zer/count.svg" />
-</p>
-
+    
 ```
 WhatsAsena - Asena Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
@@ -235,6 +228,10 @@ When the WhatsAsena learns to solve all its problems by itself. My first goal is
 [Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
 Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
 
+   </p>
+</details>
+<p align="center"> 
+  
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
 - [@itacirgabral](https://github.com/itacirgabral) for helps
