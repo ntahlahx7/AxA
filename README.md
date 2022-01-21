@@ -89,7 +89,7 @@ Your account may be banned for the following reasons:
 ## Developers
 <div align="center">
 
-[![Mr Axenzo](https://i.postimg.cc/kG8w18w8/Axenzo.jpg.png?size=100)](https://github.com/MrAxenzo) |  [![Viz Zer](https://i.postimg.cc/Wz6gq7X9/Viz.jpg.png?size=100)](https://github.com/Viz-Zer) | [You](https://i.postimg.cc/k5dNfCVZ/you.jpg.png?size=100)](https://you.com/you)
+[![Mr Axenzo](https://i.postimg.cc/kG8w18w8/Axenzo.jpg.png?size=100)](https://github.com/MrAxenzo) |  [![Viz Zer](https://i.postimg.cc/Wz6gq7X9/Viz.jpg.png?size=100)](https://github.com/Viz-Zer) | [![You](https://i.postimg.cc/k5dNfCVZ/you.jpg.png?size=100)](https://you.com/you)
 ----|----|----
   [Mr Axenzo](https://github.com/MrAxenzo)  | [Viz Zer](https://github.com/Viz-Zer) | [You](https://you.com/you)
 Modifiying  as   public | Base, Modules,idea | support us
