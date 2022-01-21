@@ -95,6 +95,15 @@ Your account may be banned for the following reasons:
 Modifiying  as   public | Base, Modules | Bug Fixes, Modules
 </div>
 
+</p>
+<details>
+  <summary>
+      Even more stats
+  </summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Viz-Zer&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=Viz-Zer&theme=tokyonight">
+  </p>
 </details>
 <p align="center"> 
   Visitor count<br>
