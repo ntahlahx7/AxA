@@ -89,10 +89,10 @@ Your account may be banned for the following reasons:
 ## Developers
 <div align="center">
 
-[![Mr Axenzo](https://i.postimg.cc/kG8w18w8/Axenzo.jpg.png?size=100)](https://github.com/MrAxenzo) |  [![Viz Zer](https://i.postimg.cc/Wz6gq7X9/Viz.jpg.png?size=100)](https://github.com/Viz-Zer) | [![KRIZ SER](https://i.postimg.cc/ZYyf5tZR/Kriz.jpg.png?size=100)](https://github.com/KANNANSIR)
+[![Mr Axenzo](https://i.postimg.cc/kG8w18w8/Axenzo.jpg.png?size=100)](https://github.com/MrAxenzo) |  [![Viz Zer](https://i.postimg.cc/Wz6gq7X9/Viz.jpg.png?size=100)](https://github.com/Viz-Zer) | [You](https://i.postimg.cc/k5dNfCVZ/you.jpg.png?size=100)](https://github.com/KANNANSIR)
 ----|----|----
-  [Mr Axenzo](https://github.com/MrAxenzo)  | [Viz Zer](https://github.com/Viz-Zer) | [KRIZ SER](https://github.com/KANNANSIR)
-Modifiying  as   public | Base, Modules | Bug Fixes, Modules
+  [Mr Axenzo](https://github.com/MrAxenzo)  | [Viz Zer](https://github.com/Viz-Zer) | [You](https://you.com/you)
+Modifiying  as   public | Base, Modules,idea | support us
 </div>
 
 </p>
