@@ -1,64 +1,105 @@
-## Thanks for Everything 
-### We will always remember you..
+----
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
+<div align="center">
+  <img src="https://i.imgur.com/I9ayLnz.jpeg" width="200" height="200">
+  
+  <a  href="#"><img title="AxA-BOT" src="https://img.shields.io/badge/AxA-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
+</p>
+</div>
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
-    <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
-  </a>
+Project created by <a href="https://github.com/MrAxenzo">AXENZO</a> to make it public
+  <br>
+      | © |
+       Reserved |
+   <br>
 </p>
 
-<p align="center">
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
 
-  </a>
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
+----
+![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
+## 📢 Guide
+Click WA logo to Join and Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Viz-Zer/Viz-Zer/blob/main/RepoAssets/wlogo.svg.png)](https://chat.whatsapp.com/HK7oEBNhFQzC6q2cYPA3fN)
+  <div align="center">
+   
+## Setup
+<div align="center">
+  
+### Simple Method
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Viz-Zer/AxA-QR)
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrAxeno/AxA)
+     </div>
+<br>             
+<br >
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+```
+bash <(curl -L https://t.ly/tHxh)
+```
 
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
+  
 
-  </a>
-  <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
 
-  </a>
-  <a href="https://t.me/AsenaSupport">
-    <img src="https://img.shields.io/badge/Telegram-Asena%20Support-purple&style=plastic">
 
-  </a>
-</p>
+
+
+### The Hard Method
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git 
+$ git clone  https://github.com/MrAxeno/AxA
+$ cd  AxA
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+```
+
+```js
+SETUP
+$ git clone  https://github.com/MrAxeno/AxA
+$ cd  AxA
+$ chmod +x *
+$ npm i
+$ node qr.js
+// scan the qr using whatsapp web on your phone
+$ node bot.js
+
 
 ```
-Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, Asena executives do not accept responsibility.
+By establishing the Asena, you are deemed to have accepted these responsibilities.
 
-WhatsAsena - Asena Userbot Açık Kaynaklı geliştirmeye açık bir yazılımdır. 
-Yanlış ve amacı dışında kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
-Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp eklemeler çıkarmalar yapabilir,
-kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
-orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
-biçimde kullanmaları özelliğini sağlar.
-Kullanımı tamamen kullanıcının sorumluluğundadır.
-Botu amacı dışında kullanmak, açık bir şekilde yasaklanmanıza sebeb olur.
-Asena Userbot yalnızca bir altyapıdır. Nasıl sonradan yüklenen programlarla 
-yapılan işlerden işletim sistemi sorumlu değilse, 
-WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değildir.
-WhatsAsena'yı para karşılığı pazarlamak, kullanıma sunmak yahut herhangi bir maddi değere sahip
-birşey ile satışa sunmak kesinlikle yasaktır. Doğabilecek tüm yasal soruşturmalardan
-kullanıcı sorumludur.
+Your account may be banned for the following reasons:
+- Using .ban command for more than one user.
+- Using fake numbers.
+- Spamming Too Much (If someone complains)
+```
+```
 
+## Developers
+<div align="center">
+
+[![Mr Axenzo](https://i.postimg.cc/kG8w18w8/Axenzo.jpg.png?size=100)](https://github.com/MrAxenzo) |  [![Viz Zer](https://i.postimg.cc/Wz6gq7X9/Viz.jpg.png?size=100)](https://github.com/Viz-Zer) | [![KRIZ SER](https://i.postimg.cc/ZYyf5tZR/Kriz.jpg.png?size=100)](https://github.com/KANNANSIR)
+----|----|----
+  [Mr Axenzo](https://github.com/MrAxenzo)  | [Viz Zer](https://github.com/Viz-Zer) | [KRIZ SER](https://github.com/KANNANSIR)
+Modifiying  as   public | Base, Modules | Bug Fixes, Modules
+</div>
+
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+```
 WhatsAsena - Asena Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
@@ -117,27 +158,7 @@ the user is responsible.
 ## Setup
 ### Very Simple Method
 `Soon as Possible...`
-
-### Simple Method 
-
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
-
 > [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
-
-### The Hard Method (Not Recommend)
-```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
-$ cd WhatsAsenaDuplicated
-$ npm i
-$ nano config.env
-// Config.env oluşturun ve düzenleyin. Örnek: https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/config.env-Example
-// Create Config.env and edit it. Examle: https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/config.env-Example
-$ node bot.js
-```
-
-##
 
 ### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
 [![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
@@ -196,21 +217,6 @@ Because I'm the only developer. I need to test every step. I need to check each 
 When the WhatsAsena learns to solve all its problems by itself. My first goal is to provide this stuff.
 
 </details>
-
-##
-
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-
-Your account may be banned for the following reasons:
-- Using .ban command for more than one user.
-- Using fake numbers.
-- Spamming Too Much (If someone complains)
-```
 
 ## Developers
 
