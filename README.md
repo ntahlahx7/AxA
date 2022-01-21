@@ -255,3 +255,8 @@ More than 130,000 uses worldwide, and this all-age project demands innovations t
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AxA/count.svg"/>
+</p>
