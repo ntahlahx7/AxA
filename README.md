@@ -85,7 +85,6 @@ Your account may be banned for the following reasons:
 - Using fake numbers.
 - Spamming Too Much (If someone complains)
 ```
-```
 
 ## Developers
 <div align="center">
