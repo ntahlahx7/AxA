@@ -95,6 +95,12 @@ Your account may be banned for the following reasons:
 Modifiying  as   public | Base, Modules | Bug Fixes, Modules
 </div>
 
+</details>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Viz-Zer/count.svg" />
+</p>
+
 ```
 WhatsAsena - Asena Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
