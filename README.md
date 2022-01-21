@@ -98,11 +98,10 @@ Modifiying  as   public | Base, Modules | Bug Fixes, Modules
 </p>
 <details>
   <summary>
-      Even more stats
+      More About WhatsAsena
   </summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Viz-Zer&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=Viz-Zer&theme=tokyonight">
+ 
   </p>
 </details>
 <p align="center"> 
