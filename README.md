@@ -95,9 +95,6 @@ Your account may be banned for the following reasons:
 Modifiying  as   public | Base, Modules | Bug Fixes, Modules
 </div>
 
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 ```
 WhatsAsena - Asena Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
